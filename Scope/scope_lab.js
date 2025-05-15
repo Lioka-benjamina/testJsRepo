@@ -30,3 +30,4 @@ show();
 console.log(functionVar); // Lance une ReferenceError
 console.log(functionLet); // Lance une ReferenceError
 console.log(functionConst); // Lance une ReferenceError
+
